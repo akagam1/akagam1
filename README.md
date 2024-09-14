@@ -3,7 +3,7 @@
 I'm Arjun, a pre-final year undergraduate student at BITS Pilani, Goa Campus
 
 - ⚡ My interests are mainly in Machine Learning, Multi-Agent coordination, and Numerical Techniques for solving systems of equations.
-- 🔭 Currently working on developing my own JAX based differential equation numerical solver library, and Operator Learning related methods.
+- 🔭 Currently working on developing my own JAX based differential equation numerical solver library, and also actively working on implementing various Operator Learning related methods.
 - 💬 My math interests lie in Linear Algebra and Functional Analysis (and by extension, analysis of Differential Equations).
 
 Would love to work on and contribute to related work. Feel free to reach out for the same :)

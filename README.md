@@ -7,6 +7,8 @@ I'm Arjun, a pre-final year undergraduate student at BITS Pilani, Goa Campus
 - 💬 My math interests lie in Linear Algebra and Functional Analysis (and by extension, analysis of Differential Equations).
 
 Would love to work on and contribute to related work. Feel free to reach out for the same :)
+
+Feel free to contact me on [email](arjunputhli2003@gmail.com).
 <!--
 **akagam1/akagam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

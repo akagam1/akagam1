@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Arjun, a pre-final year undergraduate student at BITS Pilani, Goa Campus
+I'm Arjun, a final year undergraduate student at BITS Pilani, Goa Campus
 
 - ⚡ My interests are mainly in Machine Learning, Multi-Agent coordination, and Numerical Techniques for solving systems of equations.
 - 🔭 Currently working on learning based methods that enforce exact physics with a discrete exterior calculus framework, particularly for elliptic PDEs
